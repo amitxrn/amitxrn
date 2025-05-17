@@ -27,10 +27,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitxrn&icon=0&color=0)](https://visitcount.itsvg.in)
-<p>
-<img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
-<img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
-<img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
-<img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
+<p align="center">
+<img align="left" alt="coding" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
+<img align="left" alt="coding" width="200" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd2NTI3b2tweDc1b2t6enFpODJ0OHZrNmFwNW43cGpvNmtkb2VyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif">
+<img align="left" alt="coding" width="200" height="200" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47tg5un0afxt4tmycpbvydcijaknet9mxiiz1icqvq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="left" alt="coding" width="200" height="200" src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif?cid=ecf05e475anuwok6yvm8dgcsgj52qqdry2gh57obfmrekrb9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
