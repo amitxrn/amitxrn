@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=fff"/>
+</p>
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">Cybersecurity Professional || Penetration Tester || Ethical Hacker || CTF Player</h3>
 <img align="right" alt="" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lmam1nb3lxYXp5NG8wdTdxNHNhMGtzMDZpbDhlemhtZ2w3bW84cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRa7dRkMlVZRE5HUU4/giphy.gif">
