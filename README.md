@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">Cybersecurity Professional || Penetration Tester || Ethical Hacker || CTF Player</h3>
-<img align="right' alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lmam1nb3lxYXp5NG8wdTdxNHNhMGtzMDZpbDhlemhtZ2w3bW84cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRa7dRkMlVZRE5HUU4/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lmam1nb3lxYXp5NG8wdTdxNHNhMGtzMDZpbDhlemhtZ2w3bW84cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRa7dRkMlVZRE5HUU4/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitxrn" alt="amitxrn" /></a> </p>
 
