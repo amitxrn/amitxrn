@@ -27,10 +27,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitxrn&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p>
 <img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
 <img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
 <img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
 <img align="left" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkYTR2c2g0eWxwdXgwenFpZWtjZ2U5cG5xam9ldTZ0MTJsd2xzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsd8mFzxi1qFuSQv8D/giphy.gif">
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
