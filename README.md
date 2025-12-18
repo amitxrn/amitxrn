@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=fff"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Cybersecurity Professional || Penetration Tester || Ethical Hacker || CTF Player</h3>
+<h3 align="center">Cybersecurity Researcher || VAPT || eJPTv2 || Ethical Hacker || CTF Player</h3>
 
 
 # 💫 About Me:
