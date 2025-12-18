@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20Profile!&section=header&fontAlignY=50&textBg=false&fontColor=9/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">|| Cybersecurity Researcher || VAPT || eJPTv2 || Ethical Hacker || CTF Player ||</h3>
